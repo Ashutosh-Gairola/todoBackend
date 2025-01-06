@@ -6,7 +6,8 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",
-    "localhost:3000"
+    "localhost:3000",
+    "https://todobackend-11vr.onrender.com"
 ]
 
 app.add_middleware(
