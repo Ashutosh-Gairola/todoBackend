@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "item": "hello words"
+    },
+    {
+        "id": 2,
+        "item": "this cannot be a book"
+    },
+    {
+        "id": 3,
+        "item": "we have limited items on the list"
+    },
+    {
+        "id": 4,
+        "item": "this is an item which need to be removed"
+    }
+]
